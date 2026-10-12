@@ -1,0 +1,16 @@
+What is TypeScript?
+TypeScript is a programming language developed by Microsoft. 
+It is a superset of JavaScript, which means that all JavaScript code is valid 
+TypeScript code. TypeScript adds static typing to the language, which can help 
+catch errors at compile time rather than at runtime.
+
+
+Why TypeScript is used?
+TypeScript is used for several reasons:
+ 1. **Static Typing**: TypeScript allows developers to define types for variables, function parameters, and return values. This helps catch type-related errors during development, leading to more robust and maintainable code.
+ 2. **Enhanced IDE Support**: TypeScript provides better tooling and autocompletion in
+ 3. **Improved Code Readability**: By explicitly defining types, TypeScript makes the code more readable and understandable for developers, especially in large codebases.
+
+
+
+
